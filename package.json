@@ -1,0 +1,18 @@
+{
+	"name":"com.morpheusxr.platform.interactivity",
+	"displayName": "Interactivity",
+	"version": "1.0.0",
+	"unity": "2021.3",
+	"description":"Morpheus Interactivity Kit",
+	"author": {
+        "name": "Morpheus XR",
+        "url": "https://morpheusxr.com"
+    },
+	"samples":[
+		{
+            "displayName": "Interactive VFX Sample",
+            "description": "Contains sample scene demonstrating usage of ObjectPresence system to create a zone with an interactive effect",
+            "path": "Samples~/InteractiveVFX"
+        }
+	]
+}
